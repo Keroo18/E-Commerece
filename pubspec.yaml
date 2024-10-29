@@ -36,6 +36,14 @@ dependencies:
   lottie: ^3.1.2
   flutter_easyloading: ^3.0.5
   intl_phone_field: ^3.1.0
+  animate_do: ^3.3.4
+  dartz:
+  shared_preferences: ^2.3.2
+
+
+
+
+
 
   flutter:
     sdk: flutter

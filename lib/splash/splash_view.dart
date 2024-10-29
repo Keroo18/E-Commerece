@@ -17,7 +17,7 @@ class _SplashViewState extends State<SplashView> {
   void initState() {
     // TODO: implement initState
     Timer(
-        const Duration(seconds: 3),
+        const Duration(seconds: 1),
         () {
           Navigator.pushReplacementNamed(
               context,
